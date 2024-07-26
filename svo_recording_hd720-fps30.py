@@ -1,3 +1,5 @@
+# orig: https://github.com/stereolabs/zed-sdk/blob/229593e845c26fc13e5054c332309a3bd7be1af7/recording/recording/mono/python/svo_recording.py
+
 import sys
 import pyzed.sl as sl
 from signal import signal, SIGINT
